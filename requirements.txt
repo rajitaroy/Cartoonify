@@ -1,0 +1,6 @@
+easygui==0.98.2
+opencv_python==4.5.2.54
+matplotlib==3.2.2
+imageio==2.9.0
+numpy==1.19.5
+Pillow==8.3.1
