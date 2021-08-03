@@ -1,4 +1,4 @@
-To run the program on Windows:  
+## Steps to run:  
 
 Activate virtual environment  
 `cd Cartoonify`  
